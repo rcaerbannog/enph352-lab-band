@@ -1,14 +1,28 @@
 # Band Logbook
 
+## 2026-11-09 Data Processing
+> Goal: Try fitting the Urbach Edge to the collected absorbance data.
+> 
+> Approach: Notebook.
+> 
+> Questions: _
+
+Worksession 11:00-15:07: data from practice run Oct 29 is not well fittable, but the data processing methods are developed. Try on Nov 5 clena run with smoothed reference spectrum and longer integration time -> periodic brightness variation identified on Nov 5 mitigated.
+
+Do data analysis by today, so that I know whether I need to do more data collection on Tuesday's reading break lab time.
+
+## 2026-11-05 Lab Session 3
+Insert image from paper notebook. 
+
 ## 2026-10-29 Lab Session 2
 
 > Goal: Take transmission data, plot it to see if it looks like a spread-out absorbance step change.
 > 
 > Approach: Follow all guidance available from Ocean Optics manual to perform the absorbance measurement. Paper lab manual, Appendix A Experiment Tutorials, Absorbance Experiments.
-> 
-> Lab data condition: lamp set to 60 V (maximum ~117), starting with one 10% ND filter (filter light outside of band, in case that disrupts sensitivity). Lamp turned on at 2:05pm. 
-> 
-> Temperature control started at 14:50. Start measuring the GaAs sample at a temperature of 20°C. The temperature takes at least 5 minutes to stabilize to within 0.5°C. Conduct measurements at temperature intervals of 20°C up to 120°C. 
+
+Lab data condition: lamp set to 60 V (maximum ~117), starting with one 10% ND filter (filter light outside of band, in case that disrupts sensitivity). Lamp turned on at 2:05pm. 
+
+Temperature control started at 14:50. Start measuring the GaAs sample at a temperature of 20°C. The temperature takes at least 5 minutes to stabilize to within 0.5°C. Conduct measurements at temperature intervals of 20°C up to 120°C. 
 
 Rough procedure
 0. ~~Set temperature to 20°C.~~ (The room is already at 19.8°C now.)
@@ -53,6 +67,7 @@ End by collecting 25 samples of 60°C data for possible comparison.
 > 
 > Temperature control started at 14:50. Start measuring the GaAs sample at a temperature of 20°C. The temperature takes at least 5 minutes to stabilize to within 0.5°C. Conduct measurements at temperature intervals of 20°C up to 120°C. 
 
+**TODO**: add picture from notebook of the recorded wafer thickness measurement from this date.
 
 ## 2026-10-22 Lab Session 1
 
