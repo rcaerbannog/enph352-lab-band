@@ -11,6 +11,8 @@ Worksession 11:00-15:07: data from practice run Oct 29 is not well fittable, but
 
 Do data analysis by today, so that I know whether I need to do more data collection on Tuesday's reading break lab time.
 
+Uncertainty analysis note: https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Quantifying_Nature/Accuracy_of_Spectrophotometer_Readings
+
 ## 2026-11-05 Lab Session 3
 Insert image from paper notebook. 
 
